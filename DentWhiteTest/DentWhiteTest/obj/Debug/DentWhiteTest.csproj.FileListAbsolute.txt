@@ -1,0 +1,11 @@
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\DentWhiteTest.dll
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\DentWhiteTest.pdb
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\Castle.Core.dll
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\TestStack.White.dll
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\Castle.Core.xml
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\TestStack.White.pdb
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\bin\Debug\TestStack.White.xml
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\obj\Debug\DentWhiteTest.csproj.CoreCompileInputs.cache
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\obj\Debug\DentWhiteTest.dll
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\obj\Debug\DentWhiteTest.pdb
+C:\Users\heygears\Desktop\DentWhiteTest\DentWhiteTest\obj\Debug\DentWhiteTest.csprojResolveAssemblyReference.cache
